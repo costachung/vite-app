@@ -1,8 +1,32 @@
 {
-  "hash": "f91b97ee",
+  "hash": "01a91d7d",
   "configHash": "32305268",
-  "lockfileHash": "e3b0c442",
-  "browserHash": "05bae686",
-  "optimized": {},
-  "chunks": {}
+  "lockfileHash": "c1115328",
+  "browserHash": "632cfdbf",
+  "optimized": {
+    "react-dom/client": {
+      "src": "../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "b91fc7e5",
+      "needsInterop": true
+    },
+    "react": {
+      "src": "../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "166517a2",
+      "needsInterop": true
+    },
+    "react/jsx-dev-runtime": {
+      "src": "../../node_modules/react/jsx-dev-runtime.js",
+      "file": "react_jsx-dev-runtime.js",
+      "fileHash": "766151fc",
+      "needsInterop": true
+    }
+  },
+  "chunks": {
+    "react-Na5-BvaJ": {
+      "file": "react-Na5-BvaJ.js",
+      "isDynamicEntry": false
+    }
+  }
 }
